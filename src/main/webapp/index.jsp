@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<h1>Welcome to  Devops traning 2029 </h1>
+<h1>Welcome to  Devops traning 2023 </h1>
 <p> Welcome to  Devops traning for 2029 oct Evening Batch.</p>
 </body>
 </html>
